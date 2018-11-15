@@ -1,0 +1,96 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style0 {
+    background-image: url(https://yotako.io/images/dashboard/imagePlaceholder.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-left: 140px;
+    margin-top: 95px;
+    width: 134px;
+    height: 191px;
+    flex-direction: column
+  }
+  .style3 {
+    margin-left: 14px;
+    height: 16px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style0 {
+    background-image: url(https://yotako.io/images/dashboard/imagePlaceholder.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-left: 287px;
+    margin-top: 195px;
+    width: 274px;
+    height: 391px;
+    flex-direction: column
+  }
+  .style3 {
+    margin-left: 29px;
+    height: 33px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style0 {
+    background-image: url(https://yotako.io/images/dashboard/imagePlaceholder.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-left: 343px;
+    margin-top: 233px;
+    width: 329px;
+    height: 469px;
+    flex-direction: column
+  }
+  .style3 {
+    margin-left: 34px;
+    height: 39px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style0 {
+    background-image: url(https://yotako.io/images/dashboard/imagePlaceholder.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-left: 448px;
+    margin-top: 304px;
+    width: 429px;
+    height: 611px;
+    flex-direction: column
+  }
+  .style3 {
+    margin-left: 45px;
+    height: 51px
+  }
+}
